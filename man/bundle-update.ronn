@@ -65,7 +65,7 @@ gem.
   Only output warnings and errors.
 
 * `--redownload`:
-  Force downloading every gem.
+  Force downloading every gem. `--force` is a deprecated alias of this option.
 
 * `--patch`:
   Prefer updating only to next patch version.

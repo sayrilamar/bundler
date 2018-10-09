@@ -71,7 +71,7 @@ time `bundle install` is run, use `bundle config` (see bundle-config(1)).
 
 * `--redownload`:
   Force download every gem, even if the required versions are already available
-  locally.
+  locally. `--force` is a deprecated alias of this option.
 
 * `--frozen`:
   Do not allow the Gemfile.lock to be updated after this install. Exits
