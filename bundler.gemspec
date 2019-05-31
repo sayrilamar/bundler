@@ -37,7 +37,7 @@ Gem::Specification.new do |s|
   end
 
   s.add_development_dependency "automatiek", "~> 0.1.0"
-  s.add_development_dependency "mustache",   "0.99.6"
+  s.add_development_dependency "mustache",   "1.1.0"
   s.add_development_dependency "rake",       "~> 12.3"
   s.add_development_dependency "rdiscount",  "~> 2.2"
   s.add_development_dependency "ronn",       "~> 0.7.3"
