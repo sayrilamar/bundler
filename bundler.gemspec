@@ -36,7 +36,7 @@ Gem::Specification.new do |s|
     s.required_rubygems_version = ">= 1.3.6"
   end
 
-  s.add_development_dependency "automatiek", "~> 0.2.0"
+  s.add_development_dependency "automatiek", "~> 0.3.0"
   s.add_development_dependency "mustache",   "1.1.0"
   s.add_development_dependency "rake",       "~> 12.3"
   s.add_development_dependency "rdiscount",  "~> 2.2"
